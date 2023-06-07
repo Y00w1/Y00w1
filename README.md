@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dgomezarce17@gmail.com**
 
-- ⚡ Fun fact **When I'm not coding, you can often find me on the field, tennis court, or volleyball court. I have a deep love for sports and have played football, tennis, and volleyball. Staying active is important to me, and I also enjoy hitting the gym regularly to maintain a healthy lifestyle.**
+- ⚡ Fun fact **When I'm not coding, you can often find me on the field, tennis court, or volleyball court. I have a deep love for sports. Staying active is important to me, and I also enjoy hitting the gym regularly to maintain a healthy lifestyle.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
