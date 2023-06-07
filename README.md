@@ -1,5 +1,5 @@
 <h1 align="center">Hello 😎, my name is David</h1>
-<h3 align="center">Hi, I'm a software engineering student at the Corporación Universitaria Empresarial Alexander von Humboldt. I enjoy working on backend and frontend development and am always eager to learn more about each. I'm a social and logical person who can work well with teams and adapt to changing situations. I have a strong interest in mathematics and a curiosity for new technologies. I'm a fast learner who likes to explore new possibilities and innovate. This is my GitHub profile where I share some of my projects and experiments. what should i change?</h3>
+<h3 align="center">Hi, I'm a software engineering student at the Corporación Universitaria Empresarial Alexander von Humboldt. I enjoy working on backend and frontend development and am always eager to learn more about each. I'm a social and logical person who can work well with teams and adapt to changing situations. I have a strong interest in mathematics and a curiosity for new technologies. I'm a fast learner who likes to explore new possibilities and innovate. This is my GitHub profile where I share some of my projects and experiments.</h3>
 
 - 🔭 I’m currently working on [Software to make the schedules of my university](https://github.com/Jmendezzz/proyecto-nuclear.git)
 
